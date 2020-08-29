@@ -1,0 +1,2 @@
+# kali-pwd-cracking
+The idea is to show beginners and people with interest in learning about password cracking how it is done with real tools like John The Ripper and its GUI, Johnny. I will show a demo on how to crack passwords of newly created users with both the command line tool and its GUI. I will also explain more about the password file, what and how data is stored there, and how the toolkit works.
